@@ -113,7 +113,6 @@ export const Footer = ({ variant, className }: FooterProps) => {
           </div>
         </div>
 
-        {/* Bottom Section */}
         <div className="pt-8 border-t border-border-light dark:border-border-dark flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-slate-500 dark:text-[#666]">
             © 2026 Lotion Labs, Inc. All rights reserved.
